@@ -1,6 +1,7 @@
 ## Portfolio
 Here is the list of my projects  
 Please select one you are interested in and go on by clicking the link.
+Latest projects are at the top of the table.
 
 | Project and link | Short description | Краткое описание | Tools |
 |---|---|---|---|
